@@ -101,4 +101,27 @@ My Dev Setup
  * V.7.2
  * V.7.3
 ## Javascript
-    
+### Node,NPM,Yarn & NVM
+ * Node and NPM linux repositories
+   * sudo apt-get install -y nodejs
+   * nodejs -v
+     ```
+     v10.19.0
+     ```
+   * sudo apt install npm
+   * npm -v
+     ```
+     6.14.4
+     ```
+ * With NVM 
+   * sudo apt update
+   * sudo apt install build-essential libssl-dev
+   * sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | sudo bash
+   * sudo wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | sudo bash
+   * source ~/.bashrc || source ~/.zshrc
+   * nvm ls-remote
+   * nvm install 6.9.0
+   * nvm ls
+   * nvm use 7.7.3
+* Vue CLI
+* Create React App
