@@ -94,5 +94,11 @@ My Dev Setup
         list  Lists commands
         new   Create a new Laravel application
       ```
+### Install PHP Multiple Version
+ * V.5
+ * V.7.0
+ * V.7.1
+ * V.7.2
+ * V.7.3
 ## Javascript
     
