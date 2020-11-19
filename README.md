@@ -92,7 +92,7 @@ My Dev Setup
       Available commands:
         help  Displays help for a command
         list  Lists commands
-        new   Create a new Laravel applicatio
+        new   Create a new Laravel application
       ```
 ## Javascript
     
