@@ -67,7 +67,7 @@ My Dev Setup
       / /___/ /_/ / / / / / / /_/ / /_/ (__  )  __/ /
       \____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
                           /_/
-      Composer version 1.6.5 2018-05-04 11:44:59
+      Composer version 2.0.2 2020-10-25 23:03:59
       ```
   * Valet
     * composer global require cpriego/valet-linux
